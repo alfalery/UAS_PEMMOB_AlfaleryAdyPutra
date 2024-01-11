@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Eshop.iml" filepath="$PROJECT_DIR$/.idea/modules/Eshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eshop.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eshop.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eshop.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eshop.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eshop.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eshop.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eshop.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eshop.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.iml" filepath="$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/auth/Eshop.auth.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/Eshop.cart.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/Eshop.commonui.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Eshop.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Eshop.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Eshop.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Eshop.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Eshop.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Eshop.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Eshop.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Eshop.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.iml" filepath="$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.main.iml" filepath="$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/favorite/Eshop.favorite.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/Eshop.product.iml" filepath="$PROJECT_DIR$/.idea/modules/product/Eshop.product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/Eshop.product.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/product/Eshop.product.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/Eshop.product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product/Eshop.product.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product/Eshop.product.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/product/Eshop.product.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.main.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/Eshop.profile.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.iml" filepath="$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.main.iml" filepath="$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/setting/Eshop.setting.unitTest.iml" />
+    </modules>
+  </component>
+</project>
